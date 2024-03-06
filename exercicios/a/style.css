@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+main {
+width: 500px;
+background-color: brown;
+margin: auto;
+box-shadow: 1px 1px 1px black;
+}
+
+a {
+  font-weight: bolder;
+  font-size: larger;
+}
